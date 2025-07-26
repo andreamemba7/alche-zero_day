@@ -1,1 +1,1 @@
-Hello
+This project is about how to navigate git and work with git
